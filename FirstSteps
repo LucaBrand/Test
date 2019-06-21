@@ -1,1 +1,13 @@
-/* This is how to write a comment not code */
+// this is how to write single line comments
+
+/* This is how to write a multi line comment 
+ * not 
+ * code */
+
+// consider a rectangle project fot c# syntax
+using System;
+namespace RectangleApp
+{
+    
+}
+
